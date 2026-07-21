@@ -2,7 +2,7 @@
   "key": "自用源",
   "name": "🏠 我的家庭影院",
   "type": 3,
-  "api": "https://你的worker域名/engine",  // 稍后填
+  "api": "https://zizhiyingshi.850725039.workers.dev/engine",  // 稍后填
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 1,
