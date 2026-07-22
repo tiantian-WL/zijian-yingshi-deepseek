@@ -1,13 +1,16 @@
 {
   "key": "自用源",
   "name": "🏠 我的家庭影院",
-  "type": 3,
-  "api": "https://cc.lei66.ccwu.cc/",
+  "type": 1,
+  "api": "http://api.guangsuapi.com/api.php/provide/vod/at/xml/",
   "searchable": 1,
-  "quickSearch": 0,
+  "quickSearch": 1,
   "filterable": 1,
-  "ext": {
-    "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-    "分类url": "http://api.guangsuapi.com/api.php/provide/vod/at/xml/class/{cateId}/page/{catePg}/"
-  }
+  "playerType": 1,
+  "categories": [
+    "电影",
+    "电视剧",
+    "动漫",
+    "综艺"
+  ]
 }
