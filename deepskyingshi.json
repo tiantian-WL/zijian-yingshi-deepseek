@@ -8,8 +8,8 @@
   "filterable": 1,
   "ext": {
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-    "分类url": "https://www.wwgz.cn/vodshow/{cateId}--------{catePg}---.html",
-    "数组": "<li>&&</li>",
+    "分类url": "https://collect.wolongzy.cc/api.php/provide/vod/at/xml/class/{cateId}/page/{catePg}/"
+  "数组": "<li>&&</li>",
     "标题": "a&&Text",
     "图片": "data-echo=\"&&\"",
     "详情": {
