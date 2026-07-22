@@ -2,7 +2,7 @@
   "key": "自用源",
   "name": "🏠 我的家庭影院",
   "type": 1,
-  "api": "https://jyzyapi.com/provide/vod/at/xml/",
+  "api": "https://jyzyapi.com/provide/vod/",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
