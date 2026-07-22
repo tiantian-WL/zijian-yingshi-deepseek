@@ -7,14 +7,14 @@
   "quickSearch": 0,
   "filterable": 1,
   "ext": {
-    "分类": "电影$1#电视剧$2#动漫$4",
-    "分类url": "https://www.bilibili.com/v/popular/{cateId}",
-    "数组": "li.video-item",
-    "标题": "a.title&&Text",
-    "图片": "img&&src",
+    "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+    "分类url": "https://www.wwgz.cn/vodshow/{cateId}--------{catePg}---.html",
+    "数组": "<li>&&</li>",
+    "标题": "a&&Text",
+    "图片": "data-echo=\"&&\"",
     "详情": {
-      "简介": ".desc&&Text",
-      "播放": "video source&&src"
+      "简介": "<p>&&</p>",
+      "播放": "a&&href"
     }
   }
 }
