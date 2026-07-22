@@ -2,7 +2,7 @@
   "key": "自用源",
   "name": "🏠 我的家庭影院",
   "type": 3,
-  "api": "https://cc.lei66.ccwu.cc",  // 稍后填
+  "api": "https://cc.lei66.ccwu.cc/",  // 稍后填
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 1,
